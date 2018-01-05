@@ -1,1 +1,1 @@
-.gitignore,cat.jpeg,files.txt,index.js,node_modules,package-lock.json,package.json
+.git,.gitignore,cat.jpeg,files.txt,index.js,node_modules,package-lock.json,package.json,README.md
